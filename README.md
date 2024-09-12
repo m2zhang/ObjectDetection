@@ -1,5 +1,9 @@
 Submitted to I/O Labs, see DevPost here: https://devpost.com/software/illustro
 
+
+---
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In order to use this protype, you must download this package from Github
